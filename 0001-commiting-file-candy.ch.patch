@@ -1,7 +1,7 @@
 From 96bc84c82eaf01c751c6e1a995cba341c9ec28e0 Mon Sep 17 00:00:00 2001
 From: siri-flowers <siri@flower.com>
 Date: Fri, 27 Dec 2019 18:15:31 +0530
-Subject: [PATCH] commiting file candy.ch
+Subject: [PATCH 1/2] commiting file candy.ch
 
 ---
  candy.ch | 1 +
